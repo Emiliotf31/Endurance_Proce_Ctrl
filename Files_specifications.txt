@@ -1,0 +1,6 @@
+There are two main directories. One called "Testing" for unofficial files, and the other "Rover_Master" for all the files created for the final project.
+
+If there are new directories, they will be specified here.
+
+Rover_Master: Official and functional files just for the final rover project.
+Testing: Files to test and practice with them.
